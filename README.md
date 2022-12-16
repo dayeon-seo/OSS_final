@@ -14,3 +14,10 @@
 * Min-Max Scaling
 
 ##### Hyperparameters of the function
+<pre>
+<code>
+
+clf = KNeighborsClassifier(n_neighbors=1,p=2,weights='distance')
+
+</code>
+</pre>
