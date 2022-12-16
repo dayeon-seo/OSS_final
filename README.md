@@ -1,4 +1,4 @@
 # OSS_final 
-### 20220051 Dayeon Seo
+##### 20220051 Dayeon Seo
 
-## Brain Tumor MRI Classification
+### Brain Tumor MRI Classification
