@@ -33,3 +33,14 @@ X_train_scaled=(X_train - min_on_training)/range_on_training
 
 </code>
 </pre>
+
+##### Operating instructions
+* Download Tumor Data sets
+* Download jupyter file
+* Run jupyter file
+
+##### Copyright and licensing information
+* MIT License
+
+##### Me
+* Email: sdyhappy@cau.ac.kr
